@@ -13,7 +13,7 @@
 
 <p><b>If this list saves you time, consider giving the repo a star.</b></p>
 
-<p><a href="./CONTRIBUTING.md">Contributing Guide</a> · <a href="./LICENSE">License</a></p>
+<p><a href="https://clawisthelaw.com"><b>Browse it on clawisthelaw.com</b></a> · <a href="./CONTRIBUTING.md">Contributing Guide</a> · <a href="./LICENSE">License</a></p>
 
 </div>
 
@@ -271,7 +271,7 @@
 <a id="learning-resources"></a>
 ## 🎓 Learning Resources
 
-- [alvinunreal/awesome-openclaw-tips](https://github.com/alvinunreal/awesome-openclaw-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/alvinunreal/awesome-openclaw-tips?style=social) - Curated OpenClaw tips, setup advice, and practical usage guidance.
+- [alvinreal/awesome-openclaw-tips](https://github.com/alvinreal/awesome-openclaw-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/alvinreal/awesome-openclaw-tips?style=social) - Curated OpenClaw tips, setup advice, and practical usage guidance.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
 - [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=social) - Chinese OpenClaw use-case collection covering office, content, ops, and knowledge-management scenarios.
 - [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=social) - Structured Chinese tutorial for getting started with OpenClaw.
@@ -298,4 +298,4 @@
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=alvinunreal/awesome-openclaw&type=Date)](https://www.star-history.com/#alvinunreal/awesome-openclaw&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=alvinreal/awesome-openclaw&type=Date)](https://www.star-history.com/#alvinreal/awesome-openclaw&Date)
