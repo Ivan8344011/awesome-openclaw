@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./media/hero-retro.png" alt="Awesome OpenClaw — skills, memory, dashboards, security and runtimes for OpenClaw" width="100%">
+<img src="./media/hero-black.png" alt="Awesome OpenClaw — skills, memory, dashboards, security and runtimes for OpenClaw" width="100%">
 
 # 🦞 Awesome OpenClaw
 
