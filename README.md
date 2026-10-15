@@ -137,6 +137,7 @@
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ![GitHub Repo stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social) - CLI for tracking token usage across OpenClaw, Claude Code, Codex, OpenCode, Gemini, Cursor, and more.
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local CLI/TUI for OpenClaw and coding-agent session history diagnostics.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social) - Multi-agent host with an OpenClaw preset that orchestrates OpenClaw alongside Claude Code, Codex, Hermes Agent, and built-in agents as task DAGs.
+- [herval/littleguys](https://github.com/herval/littleguys) ![GitHub Repo stars](https://img.shields.io/github/stars/herval/littleguys?style=social) - WhatsApp-style Mac app for chatting with OpenClaw agents on one or more gateways, with approvals and routines.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
