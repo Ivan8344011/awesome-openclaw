@@ -2,8 +2,6 @@
 
 <img src="./media/hero-black.png" alt="Awesome OpenClaw — skills, memory, dashboards, security and runtimes for OpenClaw" width="100%">
 
-# 🦞 Awesome OpenClaw
-
 <p><i>A premium curated list of high-quality resources for the <a href="https://github.com/openclaw/openclaw">OpenClaw</a> ecosystem.</i></p>
 
 <p>
