@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./media/hero.png" alt="Awesome OpenClaw — curated ecosystem list for the open-source personal AI assistant" width="100%">
+<img src="./media/hero.png" alt="Awesome OpenClaw — skills, memory, dashboards, security and runtimes for OpenClaw" width="100%">
 
 # 🦞 Awesome OpenClaw
 
