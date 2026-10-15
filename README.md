@@ -164,7 +164,6 @@
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
 - [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
-- [swarm-t3/safebump](https://github.com/swarm-t3/safebump) ![GitHub Repo stars](https://img.shields.io/github/stars/swarm-t3/safebump?style=social) - Per-release update safety tracker (open P0/crash-loop issues per version) plus an index of every `Update failure:` reason code with doc-backed fixes. Refreshed every 4 hours.
 - [aai-labs/agent-barn](https://github.com/aai-labs/agent-barn) ![GitHub Repo stars](https://img.shields.io/github/stars/aai-labs/agent-barn?style=social) - Control plane for AI agent teams: runs OpenClaw and Hermes runtimes on your own Kubernetes cluster via Helm, with chat front ends in Slack, Teams, Telegram, Discord and email.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
@@ -271,7 +270,6 @@
 <a id="learning-resources"></a>
 ## 🎓 Learning Resources
 
-- [alvinreal/awesome-openclaw-tips](https://github.com/alvinreal/awesome-openclaw-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/alvinreal/awesome-openclaw-tips?style=social) - Curated OpenClaw tips, setup advice, and practical usage guidance.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
 - [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=social) - Chinese OpenClaw use-case collection covering office, content, ops, and knowledge-management scenarios.
 - [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=social) - Structured Chinese tutorial for getting started with OpenClaw.
