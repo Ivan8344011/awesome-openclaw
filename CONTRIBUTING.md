@@ -19,7 +19,7 @@ Good additions usually have all or most of the following:
 Examples:
 
 - official OpenClaw resources
-- skills, registries, and workflow packs
+- skill registries and skill platforms, not individual skills
 - dashboards, control centers, and alternative clients
 - deployment tools and integrations
 - high-signal tutorials, guides, and community resources
@@ -30,6 +30,7 @@ Please avoid adding:
 
 - unrelated projects that only happen to mention `claw`
 - generic AI tools with no meaningful OpenClaw connection
+- individual skills, skill bundles, and ClawHub packages (list those on ClawHub and in the [skills directory](https://clawisthelaw.com/openclaw-skills))
 - duplicate entries already in the list
 - obvious mirrors, low-value forks, or rename-lineage copies
 - spammy directories or thin landing pages with little substance

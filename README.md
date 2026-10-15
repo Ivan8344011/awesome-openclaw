@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./media/hero-black.png" alt="Awesome OpenClaw — skills, memory, dashboards, security and runtimes for OpenClaw" width="100%">
+<img src="./media/hero-black.png" alt="Awesome OpenClaw — projects, memory, dashboards, security and runtimes for OpenClaw" width="100%">
 
-<p><i>A premium curated list of high-quality resources for the <a href="https://github.com/openclaw/openclaw">OpenClaw</a> ecosystem.</i></p>
+<p><i>A curated list of projects for the <a href="https://github.com/openclaw/openclaw">OpenClaw</a> ecosystem. Individual skills are listed <a href="https://clawisthelaw.com/openclaw-skills">separately</a>.</i></p>
 
 <p>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
@@ -24,9 +24,10 @@
 ## 📋 Contents
 
 - [🏛️ Official Resources](#official-resources)
-- [🧰 Skills & Registries](#skills-registries)
+- [🧰 Skill Registries](#skills-registries)
 - [🎛️ Dashboards & Control Centers](#dashboards-control-centers)
 - [🚀 Deployment & Operations](#deployment-operations)
+- [🤖 Models & Providers](#models-providers)
 - [🧠 Memory & Context Systems](#memory-context-systems)
 - [🛡️ Security & Safety](#security-safety)
 - [🔌 Plugins & Channel Integrations](#plugins-channel-integrations)
@@ -59,48 +60,34 @@
 - [openclaw/telecrawl](https://github.com/openclaw/telecrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/telecrawl?style=social) - Official Telegram crawler CLI for claw workflows.
 - [openclaw/gitcrawl](https://github.com/openclaw/gitcrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/gitcrawl?style=social) - Official local-first GitHub issue and PR crawler for maintainer triage.
 - [openclaw/plugin-inspector](https://github.com/openclaw/plugin-inspector) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/plugin-inspector?style=social) - Official offline compatibility inspector for mocking OpenClaw and testing plugins.
+- [openclaw/agent-skills](https://github.com/openclaw/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/agent-skills?style=social) - Official skills pack for agents and claws.
+- [openclaw/cookbook](https://github.com/openclaw/cookbook) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/cookbook?style=social) - Official example apps for the OpenClaw SDK.
+- [openclaw/clawpatch](https://github.com/openclaw/clawpatch) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawpatch?style=social) - Official review bot that reads code, patches bugs, and lands pull requests.
+- [openclaw/remindctl](https://github.com/openclaw/remindctl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/remindctl?style=social) - Official Apple Reminders CLI.
+- [openclaw/goplaces](https://github.com/openclaw/goplaces) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/goplaces?style=social) - Official Google Places CLI.
+- [openclaw/songsee](https://github.com/openclaw/songsee) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/songsee?style=social) - Official terminal CLI for spectrograms, mel, chroma, and other audio views.
+- [openclaw/clawdex](https://github.com/openclaw/clawdex) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawdex?style=social) - Official contacts CLI for claws.
+- [openclaw/notcrawl](https://github.com/openclaw/notcrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/notcrawl?style=social) - Official local-first Notion crawler into SQLite and Markdown.
+- [openclaw/graincrawl](https://github.com/openclaw/graincrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/graincrawl?style=social) - Official local-first Granola notes archive with SQLite, Markdown export, and a TUI.
+- [openclaw/photoscrawl](https://github.com/openclaw/photoscrawl) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/photoscrawl?style=social) - Official crawler that reads an Apple Photos library for an agent.
+- [openclaw/octopool](https://github.com/openclaw/octopool) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/octopool?style=social) - Official shared GitHub read relay and cache with org authentication.
+- [openclaw/Swabble](https://github.com/openclaw/Swabble) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/Swabble?style=social) - Official macOS wake-word daemon built on Speech.framework.
+- [openclaw/openclaw-facetime](https://github.com/openclaw/openclaw-facetime) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw-facetime?style=social) - Official FaceTime capture and call control for OpenClaw on Apple Silicon.
+- [openclaw/esp-openclaw-node](https://github.com/openclaw/esp-openclaw-node) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/esp-openclaw-node?style=social) - Official OpenClaw node for ESP devices.
+- [openclaw/babelfish](https://github.com/openclaw/babelfish) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/babelfish?style=social) - Official bridge that loads plugins from other coding and agent apps into OpenClaw.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
 <a id="skills-registries"></a>
-## 🧰 Skills & Registries
+## 🧰 Skill Registries
 
-- [openclaw/clawhub](https://github.com/openclaw/clawhub) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social) - Official skill directory and discovery hub.
-- [openclaw/agent-skills](https://github.com/openclaw/agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/agent-skills?style=social) - Official useful skills pack for agents and claws.
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social) - Large external skills index of 5,400+ ClawHub skills by category.
-- [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/LeoYeAI/openclaw-master-skills?style=social) - Curated collection of 1,200+ best OpenClaw skills — weekly updated.
-- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JimLiu/baoyu-skills?style=social) - Large multi-agent skills collection tagged for OpenClaw, Claude, and Codex.
-- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social) - Production-ready OpenClaw agent templates with SOUL.md configs across many categories.
-- [iflytek/skillhub](https://github.com/iflytek/skillhub) ![GitHub Repo stars](https://img.shields.io/github/stars/iflytek/skillhub?style=social) - Self-hosted enterprise agent skill registry with versioning, RBAC, audit logs, and Docker/Kubernetes deploy.
-- [anbeime/skill](https://github.com/anbeime/skill) ![GitHub Repo stars](https://img.shields.io/github/stars/anbeime/skill?style=social) - Fast-updating Chinese skills store with packaged installable skill bundles, including OpenClaw skills.
-- [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=social) - Large domain-specific medical skills library for OpenClaw.
-- [ClawBio/ClawBio](https://github.com/ClawBio/ClawBio) ![GitHub Repo stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=social) - Bioinformatics-native OpenClaw skill library.
-- [refly-ai/refly](https://github.com/refly-ai/refly) ![GitHub Repo stars](https://img.shields.io/github/stars/refly-ai/refly?style=social) - Open-source agent skills builder for creating reusable workflows and bots.
-- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) ![GitHub Repo stars](https://img.shields.io/github/stars/unbrowse-ai/unbrowse?style=social) - API-native browser skill and CLI for agent workflows.
-- [browser-act/skills](https://github.com/browser-act/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social) - Browser automation CLI for AI agents with anti-bot handling, multi-session isolation, and OpenClaw skill support.
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=social) - Broader agent-skills guide with OpenClaw overlap.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and the CLI.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
-- [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn) ![GitHub Repo stars](https://img.shields.io/github/stars/Jesseovo/last30days-skill-cn?style=social) - Chinese counterpart of last30days — research the last 30 days across major Chinese web platforms.
-- [kesslerio/coding-agent-openclaw-skill](https://github.com/kesslerio/coding-agent-openclaw-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/kesslerio/coding-agent-openclaw-skill?style=social) - Coding agent skill that orchestrates Codex, Claude Code, Gemini, Pi, and OpenCode CLIs.
-- [agentskillexchange/skills](https://github.com/agentskillexchange/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/agentskillexchange/skills?style=social) - Open catalog of 2,000+ security-scanned AI agent skills for Claude Code, Cursor, Codex, and OpenClaw.
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=social) - Office suite CLI purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint.
-- [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/Agents365-ai/drawio-skill?style=social) - Generate draw.io diagrams from natural language with UML, BPMN, network, and C4 presets.
-- [activeloopai/hivemind](https://github.com/activeloopai/hivemind) ![GitHub Repo stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=social) - Turn agent traces into reusable skills across OpenClaw and other agent runtimes.
-- [WJZ-P/gemini-skill](https://github.com/WJZ-P/gemini-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/WJZ-P/gemini-skill?style=social) - Gemini drawing MCP and skill via browser, usable from OpenClaw and other agents.
-- [drakulavich/kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/drakulavich/kesha-voice-kit?style=social) - Open-source voice toolkit with OpenClaw skill. Speech-to-text (25 langs), text-to-speech (Kokoro + Piper), voice-activity detection.
-- [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/cookiy-ai/user-research-skill?style=social) - End-to-end user research skill for AI agents — AI interviews, synthetic users, quant surveys.
-- [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
-- [jsrgjcy/powershell-windows-skill](https://github.com/jsrgjcy/powershell-windows-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jsrgjcy/powershell-windows-skill?style=social) - OpenClaw skill for Windows PowerShell operations — script generation, execution conventions, safety checks.
-- [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
-- [HITsz-TMG/VideoClaw](https://github.com/HITsz-TMG/VideoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/HITsz-TMG/VideoClaw?style=social) - AI video generation coworker — chat an idea and produce a film-style output for OpenClaw-style agents.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) ![GitHub Repo stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social) - Local 24/7 screen recording that plugs into OpenClaw, Hermes, and other agents (YC S26).
-- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) - Post-task skill evolution system that deduplicates, improves, and shares skills across OpenClaw and other compatible agents.
-- [ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/ZeroPointRepo/youtube-skills?style=social) - Agent skills for YouTube transcripts, video and channel search, channel browsing, and playlist extraction, installable on OpenClaw from ClawHub.
-- [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/vaibhavarora14/job-application-agent?style=social) - Job-search skill on ClawHub for discovering, qualifying, completing, and tracking applications.
-- [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social) - Social media marketing skills for LinkedIn and six other platforms, installable on OpenClaw from ClawHub.
-- [avansaber/erpclaw](https://github.com/avansaber/erpclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social) - Self-hosted ERP skill suite for invoicing, inventory, payroll, and double-entry accounting in plain English.
-- [tlgrcli/tlgr](https://github.com/tlgrcli/tlgr) ![GitHub Repo stars](https://img.shields.io/github/stars/tlgrcli/tlgr?style=social) - Telegram CLI and ClawHub skill for operating a personal Telegram account over MTProto, with JSON output and webhook event push.
+Registries and platforms for finding or hosting skills. Individual skills are not listed here.
+
+- [openclaw/clawhub](https://github.com/openclaw/clawhub) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawhub?style=social) - Official skill and plugin registry.
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=social) - Category index of 5,400+ ClawHub skills. Source for the skills browser at clawisthelaw.com/openclaw-skills.
+- [iflytek/skillhub](https://github.com/iflytek/skillhub) ![GitHub Repo stars](https://img.shields.io/github/stars/iflytek/skillhub?style=social) - Self-hosted enterprise skill registry with versioning, RBAC, audit logs, and Docker or Kubernetes deploy.
+- [anbeime/skill](https://github.com/anbeime/skill) ![GitHub Repo stars](https://img.shields.io/github/stars/anbeime/skill?style=social) - Chinese skills store with packaged installable bundles, including OpenClaw skills.
+- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) - Post-task system that deduplicates, improves, and shares skills across OpenClaw and other agents.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -138,6 +125,9 @@
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local CLI/TUI for OpenClaw and coding-agent session history diagnostics.
 - [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/Raven?style=social) - Multi-agent host with an OpenClaw preset that orchestrates OpenClaw alongside Claude Code, Codex, Hermes Agent, and built-in agents as task DAGs.
 - [herval/littleguys](https://github.com/herval/littleguys) ![GitHub Repo stars](https://img.shields.io/github/stars/herval/littleguys?style=social) - WhatsApp-style Mac app for chatting with OpenClaw agents on one or more gateways, with approvals and routines.
+- [openclaw/openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw-enterprise?style=social) - Official enterprise control plane for OpenClaw workloads.
+- [nullclaw/nullhub](https://github.com/nullclaw/nullhub) ![GitHub Repo stars](https://img.shields.io/github/stars/nullclaw/nullhub?style=social) - Management console for NullClaw agents, workflows, and task pipelines.
+- [golutra/golutra](https://github.com/golutra/golutra) ![GitHub Repo stars](https://img.shields.io/github/stars/golutra/golutra?style=social) - Orchestration platform that runs Codex, Claude Code, and OpenClaw as one agent system.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -156,15 +146,33 @@
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) ![GitHub Repo stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=social) - Server panel with one-click OpenClaw deployment.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) ![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=social) - Home server OS with OpenClaw in the app store alongside storage, media, and other self-hosted apps.
 - [serithemage/serverless-openclaw](https://github.com/serithemage/serverless-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/serithemage/serverless-openclaw?style=social) - Run OpenClaw on AWS serverless infrastructure with low idle cost.
-- [mnfst/manifest](https://github.com/mnfst/manifest) ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/manifest?style=social) - Routing and observability layer for reducing OpenClaw model costs.
 - [LeoYeAI/openclaw-guardian](https://github.com/LeoYeAI/openclaw-guardian) ![GitHub Repo stars](https://img.shields.io/github/stars/LeoYeAI/openclaw-guardian?style=social) - Watchdog and self-healing helper for OpenClaw Gateway operations.
 - [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/dongsheng123132/u-claw?style=social) - Portable offline installer bundle and distribution path.
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
-- [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [phioranex/openclaw-docker](https://github.com/phioranex/openclaw-docker) ![GitHub Repo stars](https://img.shields.io/github/stars/phioranex/openclaw-docker?style=social) - Prebuilt Docker image and install script that tracks upstream OpenClaw releases.
+- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/coollabsio/openclaw?style=social) - Automated OpenClaw Docker images for Coolify-style deploys.
+- [aws-samples/sample-OpenClaw-on-AWS-with-Bedrock](https://github.com/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/sample-OpenClaw-on-AWS-with-Bedrock?style=social) - One-click CloudFormation deploy of OpenClaw on AWS, with Amazon Bedrock as the model provider.
+- [aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore](https://github.com/aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore) ![GitHub Repo stars](https://img.shields.io/github/stars/aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore?style=social) - Experimental CDK deploy that runs OpenClaw as per-user containers on Amazon Bedrock AgentCore.
+- [TunMax/openclaw_computer](https://github.com/TunMax/openclaw_computer) ![GitHub Repo stars](https://img.shields.io/github/stars/TunMax/openclaw_computer?style=social) - Debian desktop container with OpenClaw preinstalled for browser-based hosted containers.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
-- [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
 - [aai-labs/agent-barn](https://github.com/aai-labs/agent-barn) ![GitHub Repo stars](https://img.shields.io/github/stars/aai-labs/agent-barn?style=social) - Control plane for AI agent teams: runs OpenClaw and Hermes runtimes on your own Kubernetes cluster via Helm, with chat front ends in Slack, Teams, Telegram, Discord and email.
+
+<p align="right"><a href="#contents">⬆️ Back to Top</a></p>
+
+<a id="models-providers"></a>
+## 🤖 Models & Providers
+
+Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls.
+
+- [openclaw/clawrouter](https://github.com/openclaw/clawrouter) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawrouter?style=social) - Official API gateway and provider router for OpenClaw services.
+- [openclaw/catalog](https://github.com/openclaw/catalog) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/catalog?style=social) - Official hosted model catalog, published daily from plugin manifests.
+- [openclaw/Tachikoma](https://github.com/openclaw/Tachikoma) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/Tachikoma?style=social) - Official Swift SDK with one interface for many AI model providers.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) ![GitHub Repo stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social) - LLM router for OpenClaw with model selection and cost-control focus.
+- [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/llm-gateway?style=social) - Open-source LLM gateway for routing requests across model providers.
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
+- [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) ![GitHub Repo stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social) - Proxy that exposes Antigravity Claude and Gemini models to Claude Code and OpenClaw.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -178,6 +186,7 @@
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) - Enhanced LanceDB-backed memory plugin with hybrid retrieval and reranking.
 - [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=social) - Memory OS focused on personalization and token savings.
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) ![GitHub Repo stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social) - Long-term memory extension for OpenClaw.
+- [activeloopai/hivemind](https://github.com/activeloopai/hivemind) ![GitHub Repo stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=social) - OpenClaw plugin that captures session traces into a shared memory and recalls them across runs.
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) ![GitHub Repo stars](https://img.shields.io/github/stars/mem9-ai/mem9?style=social) - Unlimited memory layer for long-horizon OpenClaw workflows.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=social) - Markdown-first memory system inspired by OpenClaw.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) - Open-source context database designed specifically for AI Agents through a file system paradigm.
@@ -196,38 +205,44 @@
 <a id="security-safety"></a>
 ## 🛡️ Security & Safety
 
-- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=social) - Security skill suite for audits, integrity checks, and drift detection.
 - [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=social) - Full-stack AI red-teaming platform with OpenClaw security scan, agent scan, skills scan, MCP scan, and jailbreak evaluation.
 - [ucsandman/dashclaw](https://github.com/ucsandman/dashclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/ucsandman/dashclaw?style=social) - Decision infrastructure for AI agents with governance policies, human-in-the-loop approvals, risk scoring, replayable audit trails, and compliance controls.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social) - Privacy- and security-focused Rust implementation inspired by OpenClaw.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
 - [peg/rampart](https://github.com/peg/rampart) ![GitHub Repo stars](https://img.shields.io/github/stars/peg/rampart?style=social) - Open-source firewall for AI agents. Policy engine that audits and controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.
-- [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 - [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) ![GitHub Repo stars](https://img.shields.io/github/stars/backbay-labs/clawdstrike?style=social) - AI EDR for developer workstations and autonomous agent fleets with swarm detection and response.
+- [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
+- [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
+- [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
 <a id="plugins-channel-integrations"></a>
 ## 🔌 Plugins & Channel Integrations
 
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) ![GitHub Repo stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social) - LLM router for OpenClaw with model selection and cost-control focus.
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) ![GitHub Repo stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social) - DingTalk channel plugin for OpenClaw.
 - [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/openclaw-lark?style=social) - Official Feishu and Lark channel plugin.
 - [AlexAnys/openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=social) - Feishu integration guide and plugin path.
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) ![GitHub Repo stars](https://img.shields.io/github/stars/m1heng/clawdbot-feishu?style=social) - Feishu plugin integration for the OpenClaw ecosystem.
 - [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) ![GitHub Repo stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-openclaw-connector?style=social) - Official DingTalk channel plugin for OpenClaw Gateway.
 - [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) ![GitHub Repo stars](https://img.shields.io/github/stars/tencent-connect/openclaw-qqbot?style=social) - QQ bot channel integration for the OpenClaw ecosystem.
+- [Tencent/openclaw-weixin](https://github.com/Tencent/openclaw-weixin) ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/openclaw-weixin?style=social) - Official Weixin channel plugin with QR-code login, multiple accounts, and text, image, voice, file, and video messages.
+- [WecomTeam/wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/WecomTeam/wecom-openclaw-plugin?style=social) - Official WeCom channel plugin, with docs, smart sheets, and calendar tools.
+- [ProperSAMA/openclaw-napcat-plugin](https://github.com/ProperSAMA/openclaw-napcat-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/ProperSAMA/openclaw-napcat-plugin?style=social) - QQ channel plugin that connects OpenClaw to private and group chats through NapCat (OneBot 11).
 - [dingxiang-me/OpenClaw-Wechat](https://github.com/dingxiang-me/OpenClaw-Wechat) ![GitHub Repo stars](https://img.shields.io/github/stars/dingxiang-me/OpenClaw-Wechat?style=social) - WeChat and WeCom integration with visual configuration and streaming support.
 - [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) ![GitHub Repo stars](https://img.shields.io/github/stars/BytePioneer-AI/openclaw-china?style=social) - China-focused plugin pack covering Feishu, DingTalk, QQ, WeChat, and related channels.
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) ![GitHub Repo stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social) - Chinese translation and localized setup resources.
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
+- [tlgrcli/tlgr](https://github.com/tlgrcli/tlgr) ![GitHub Repo stars](https://img.shields.io/github/stars/tlgrcli/tlgr?style=social) - Telegram CLI for a personal account over MTProto, with JSON output and webhook event push into OpenClaw.
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
 - [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social) - OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol for bidirectional agent communication.
 - [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace.
+- [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) ![GitHub Repo stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social) - Home Assistant add-on that runs OpenClaw inside a Home Assistant instance.
+- [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=social) - Anti-detection browser server for agents, with an OpenClaw plugin.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -237,6 +252,9 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social) - Free local cowork app and OpenClaw-style UI spanning multiple coding-agent ecosystems.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=social) - Fast, small, fully autonomous AI personal assistant infrastructure — deploy anywhere, swap anything.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nanocoai/nanoclaw?style=social) - Lightweight containerized OpenClaw alternative with messaging integrations, memory, and scheduled jobs.
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nullclaw/nullclaw?style=social) - Zig assistant runtime in the OpenClaw family: small binary, low RAM, fast startup.
+- [clawdotnet/openclaw.net](https://github.com/clawdotnet/openclaw.net) ![GitHub Repo stars](https://img.shields.io/github/stars/clawdotnet/openclaw.net?style=social) - .NET runtime for self-hosted personal and enterprise agents, NativeAOT-friendly.
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) ![GitHub Repo stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=social) - IM agent framework positioned as an OpenClaw alternative, with plugins and many chat platforms.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) ![GitHub Repo stars](https://img.shields.io/github/stars/netease-youdao/LobsterAI?style=social) - Desktop-grade AI agent built on OpenClaw for real work — docs, slides, research — with phone control via WeChat, Feishu, DingTalk, and Telegram.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw?style=social) - Fully autonomous self-evolving research agent from idea to paper.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nextlevelbuilder/goclaw?style=social) - OpenClaw rebuilt in Go with multi-tenant isolation, layered security, and native concurrency.
@@ -269,7 +287,10 @@
 ## 🎓 Learning Resources
 
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social) - Production-ready OpenClaw agent templates with SOUL.md configs across many categories.
 - [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=social) - Chinese OpenClaw use-case collection covering office, content, ops, and knowledge-management scenarios.
+- [cogine-ai/awesome-openclaw-zh](https://github.com/cogine-ai/awesome-openclaw-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/cogine-ai/awesome-openclaw-zh?style=social) - Chinese field guide of copyable OpenClaw scenarios, from first deploy to daily use.
+- [yeuxuan/openclaw-docs](https://github.com/yeuxuan/openclaw-docs) ![GitHub Repo stars](https://img.shields.io/github/stars/yeuxuan/openclaw-docs?style=social) - Chinese documentation site for OpenClaw setup, source walkthroughs, and multi-channel bots.
 - [datawhalechina/hello-claw](https://github.com/datawhalechina/hello-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=social) - Structured Chinese tutorial for getting started with OpenClaw.
 - [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial) ![GitHub Repo stars](https://img.shields.io/github/stars/xianyu110/awesome-openclaw-tutorial?style=social) - Comprehensive Chinese tutorial covering setup, configuration, and practical usage.
 - [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) ![GitHub Repo stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=social) - Chinese guide covering Claude Code, OpenClaw, and Codex with tutorials and a quick-reference card.
@@ -286,6 +307,8 @@
 
 ## 📝 Notes
 
+- This list is one entry per project: tools, apps, registries, and runtimes.
+- Individual skills and skill packs belong on [ClawHub](https://github.com/openclaw/clawhub) and the [skills directory](https://clawisthelaw.com/openclaw-skills), not here.
 - This list intentionally avoids listing obvious duplicate lineage repos separately.
 - If a project fits multiple categories, it is listed once in its strongest category.
 - If you want to improve this list, prefer adding projects with clear OpenClaw relevance, a latest meaningful commit within 30 days, and concise factual descriptions.
