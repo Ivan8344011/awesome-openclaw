@@ -243,7 +243,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace.
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) ![GitHub Repo stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social) - Home Assistant add-on that runs OpenClaw inside a Home Assistant instance.
 - [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=social) - Anti-detection browser server for agents, with an OpenClaw plugin.
-- [Ivan8344011/octopus-prime-openclaw-plugin](https://github.com/Ivan8344011/octopus-prime-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/Ivan8344011/octopus-prime-openclaw-plugin?style=social) - Channel plugin that connects OpenClaw agents to Octopus Prime, a hosted web and phone app with scheduled wake-ups, tasks, calendar, Health Watch, and team chat.
+- [octopusprime-dev/octopus-prime-openclaw-plugin](https://github.com/octopusprime-dev/octopus-prime-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/octopusprime-dev/octopus-prime-openclaw-plugin?style=social) - Channel plugin that connects OpenClaw agents to Octopus Prime, a hosted web and phone app with scheduled wake-ups, tasks, calendar, Health Watch, and team chat.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
